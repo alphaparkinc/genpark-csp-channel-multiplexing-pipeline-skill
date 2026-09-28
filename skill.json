@@ -1,0 +1,20 @@
+{
+  "name": "genpark-csp-channel-multiplexing-pipeline-skill",
+  "version": "1.0.0",
+  "description": "Communicating Sequential Processes (CSP) Go-style channel pipeline with nonblocking select multiplexing",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "csp",
+    "communicating-sequential-processes",
+    "channel-pipeline",
+    "select-multiplexing",
+    "go-channels",
+    "concurrency",
+    "python-standard-library",
+    "agent-skills",
+    "pipeline-processing",
+    "message-passing"
+  ]
+}
