@@ -1,0 +1,6 @@
+name: genpark-csp-channel-multiplexing-pipeline-skill
+version: 1.0.0
+description: Communicating Sequential Processes (CSP) Go-style channel pipeline with nonblocking select multiplexing
+command: python
+args:
+  - mcp_server.py
